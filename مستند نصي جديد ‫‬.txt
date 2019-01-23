@@ -1,0 +1,156 @@
+
+      
+<ons-page>
+  <ons-toolbar>
+       <ons-toolbar-button>
+        <ons-icon></ons-icon>
+      </ons-toolbar-button>
+    <div class="center"> ÇבÑÆםÓםÉ </div>
+  </ons-toolbar>
+
+  <ons-tabbar position="auto"> <!-- ÈÏÇםו ÇבÇÞÓÇד -->
+    <ons-tab page="tab1.html" label=" ÇבÑÆםÓםÉ " icon="fa-home" active-icon="fa-home">
+    </ons-tab> <!-- ÇבÞÓד ÇבÇזב -->
+    <ons-tab page="tab2.html" label=" ÊØÈםÞÇÊ ÇבÈבÓ " icon="fa-apple" active-icon="fa-apple">
+    </ons-tab> <!-- ÇבÞÓד ÇבËÇהם -->
+    <ons-tab page="tab3.html" label=" ÇבבÚÇÈ " icon="fa-gamepad" active-icon="fa-gamepad">
+    </ons-tab> <!-- ÇבÞÓד ÇבËÇבË -->
+    <ons-tab page="tab4.html" label=" ÇבÊØÈםÞÇÊ ÇבדÌÇהםו " icon="fa-bolt" active-icon="fa-bolt">
+    </ons-tab> <!-- ÇבÞÓד ÇבÑÇÈÚ -->
+    <ons-tab page="tab5.html" label=" ÊזÇÕב דÚהÇ " icon="fa-phone" active-icon="fa-phone">
+    </ons-tab> <!-- ÇבÞÓד ÇבÎÇדÓ -->
+  </ons-tabbar> <!-- הוÇםו ÇבÇÞÓÇד -->
+</ons-page>
+
+<template id="tab1.html"> <!-- דÍÊזל ÇבÑÆםÓםÉ -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+   <p>
+וÐÇ ÇבהÕ וז דËÇב בהÕ םד‗ה Ãה םÓÊÈÏב Ýם הÝÓ ÇבדÓÇÍÉ¡ בÞÏ Êד ÊזבםÏ וÐÇ ÇבהÕ דה דזבÏ ÇבהÕ ÇבÚÑÈל¡ ÍםË םד‗ה‗ Ãה ÊזבÏ דËב וÐÇ ÇבהÕ Ãז ÇבÚÏםÏ דה ÇבהÕזÕ ÇבÃÎÑל ÅÖÇÝÉ Åבל ÒםÇÏÉ ÚÏÏ ÇבÍÑזÝ ÇבÊל םזבÏוÇ ÇבÊØÈםÞ.
+ÅÐÇ ‗הÊ ÊÍÊÇÌ Åבל ÚÏÏ Ã‗ÈÑ דה ÇבÝÞÑÇÊ םÊםÍ ב‗ דזבÏ ÇבהÕ ÇבÚÑÈל ÒםÇÏÉ ÚÏÏ ÇבÝÞÑÇÊ ‗דÇ ÊÑםÏ¡ ÇבהÕ בה םÈÏז דÞÓדÇ זבÇ םÍזם ÃÎØÇÁ בÛזםÉ¡ דזבÏ ÇבהÕ ÇבÚÑÈל דÝםÏ בדÕ
+   </p>
+  </li>
+</ul>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-10-48.png"> </span>
+    <span class="badge"><a href="#"> ÇÖÛØ והÇ </a></span>
+    ÊÇÈÚהם Úבל ÇבÓהÇÈ ÔÇÊ <br>
+    @emad.1009
+  </li>
+</ul>
+  </ons-page>
+</template> <!-- / -->
+
+<template id="tab2.html"> <!--דÍÊזל ÇבÞÓד ÇבËÇהם -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/app_store-48.png"> </span>
+    <span class="badge"><a href="#"> Download </a></span>
+    ÇÓד ÇבÊØÈםÞ <br>
+    זÕÝ ÇבÊØÈםÞ
+  </li>
+</ul>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/app_store-48.png"> </span>
+    <span class="badge"><a href="#"> Download </a></span>
+    ÇÓד ÇבÊØÈםÞ <br>
+    זÕÝ ÇבÊØÈםÞ
+  </li>
+</ul>
+  </ons-page>
+</template> <!-- / -->
+
+      
+
+<template id="tab3.html"> <!--דÍÊזל ÇבÞÓד ÇבËÇבË -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/app_store-48.png"> </span>
+    <span class="badge"><a href="#"> Download </a></span>
+    ÇÓד ÇבÊØÈםÞ <br>
+    זÕÝ ÇבÊØÈםÞ
+  </li>
+</ul>
+  </ons-page>
+</template> <!-- / -->
+
+      
+
+<template id="tab4.html"> <!--דÍÊזל ÇבÞÓד ÇבÑÇÈÚ -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/app_store-48.png"> </span>
+    <span class="badge"><a href="#"> Download </a></span>
+    ÇÓד ÇבÊØÈםÞ <br>
+    זÕÝ ÇבÊØÈםÞ
+  </li>
+</ul>
+  </ons-page>
+</template>
+ 
+      
+
+<template id="tab4.html"> <!--דÍÊזל ÇבÞÓד ÇבÎÇדÓ -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/app_store-48.png"> </span>
+    <span class="badge"><a href="#"> Download </a></span>
+    ÇÓד ÇבÊØÈםÞ <br>
+    זÕÝ ÇבÊØÈםÞ
+  </li>
+</ul>
+  </ons-page>
+</template> <!-- / -->
+      
+      
+
+<template id="tab5.html"> <!-- דÍÊזל ÇÊÕב ÈהÇ -->
+  <ons-page>
+<ul class="list-group">
+  <li class="list-group-item">
+   <p>
+וÐÇ ÇבהÕ וז דËÇב בהÕ םד‗ה Ãה םÓÊÈÏב Ýם הÝÓ ÇבדÓÇÍÉ¡ בÞÏ Êד ÊזבםÏ וÐÇ ÇבהÕ דה דזבÏ ÇבהÕ ÇבÚÑÈל¡ ÍםË םד‗ה‗ Ãה ÊזבÏ דËב וÐÇ ÇבהÕ Ãז ÇבÚÏםÏ דה ÇבהÕזÕ ÇבÃÎÑל ÅÖÇÝÉ Åבל ÒםÇÏÉ ÚÏÏ ÇבÍÑזÝ ÇבÊל םזבÏוÇ ÇבÊØÈםÞ.
+ÅÐÇ ‗הÊ ÊÍÊÇÌ Åבל ÚÏÏ Ã‗ÈÑ דה ÇבÝÞÑÇÊ םÊםÍ ב‗ דזבÏ ÇבהÕ ÇבÚÑÈל ÒםÇÏÉ ÚÏÏ ÇבÝÞÑÇÊ ‗דÇ ÊÑםÏ¡ ÇבהÕ בה םÈÏז דÞÓדÇ זבÇ םÍזם ÃÎØÇÁ בÛזםÉ¡ דזבÏ ÇבהÕ ÇבÚÑÈל דÝםÏ בדÕ
+   </p>
+  </li>
+</ul>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-10-48.png"> </span>
+    <span class="badge"><a href="#"> ÇÖÛØ והÇ </a></span>
+    בבÇÓÊÝÓÇÑ זבØÈ ÇבÇÔÊÑÇ‗ Ýם ÊØÈםÞÇÊ ÇבÈבÓ ÇבדÏÝזÚו <br>
+    דÊזÇÌÏ 7/24
+  </li>
+</ul>
+<ul class="list-group">
+  <li class="list-group-item">
+    <span class="icon"> <img src="https://cdn4.iconfinder.com/data/icons/miu-shadow-social/48/twitter-48.png"> </span>
+    <span class="badge"><a href="#"> ÇÖÛØ והÇ </a></span>
+    ÊÇÈÚהם Úבל ÊזםÊÑ בÊÊזÕב ÈÃÍÏË ÇבÊØÈםÞÇÊ <br>
+    ‗ב םםזד ÊØÈםÞÇÊ ):
+  </li>
+</ul>
+  </ons-page>
+</template> <!-- / -->
+
+ 
+
+<!-- הוÇםו ÇבדזÞÚ -->
+    <script>
+    document.addEventListener('postchange', function(event) {
+    document.querySelector('ons-toolbar .center')
+    .innerHTML = event.tabItem.getAttribute('label');
+    });  
+    </script>
+    <script src="https://unpkg.com/onsenui/js/onsenui.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </body>
+</html>
